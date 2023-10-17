@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @shin-dee
-- 👀 I’m interested in Life
-- 🌱 I’m currently learning Django and Python
-- 💞️ I’m looking to collaborate on interesting ideas
+BP @ encode.org
+VP @ wishwork.org
 
 
 <!---
